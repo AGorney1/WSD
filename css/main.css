@@ -34,3 +34,14 @@ a:active{
 li{
 	list-style-type: circle;
 }
+
+/*---------------------------Nav MoDS---------*/
+
+nav ul{
+	width: 500px;
+	margin: 0 auto;
+	background: #666
+	list-style-type: none;
+	padding: 0;
+	overflow: hidden;
+}
