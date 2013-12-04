@@ -52,3 +52,18 @@ nav li{
 	float: left;
 	
 }
+
+nav a{
+	text-decoration: none;
+	background: #fff;
+	display: block;
+	height: 30px;
+	line-height: 30px;
+	text-align: center;
+	color: orange;
+}
+
+nav a:hover{
+	color: yellow;
+	background: purple;
+}
