@@ -45,3 +45,10 @@ nav ul{
 	padding: 0;
 	overflow: hidden;
 }
+
+nav li{
+	width: 100px;
+	background: silver;
+	float: left;
+	
+}
