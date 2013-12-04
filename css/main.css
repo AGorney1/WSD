@@ -1,4 +1,4 @@
-/*------Font Mods---------*/
+/*---------------------------Font Mods---------*/
 p{
 	font-family: ‘Fenix’, Arial, serif; font-weight: 400;
 }
@@ -6,7 +6,7 @@ p{
 h1{
 	font-family: ‘Montaga’, Arial, serif; font-weight: 400;
 }
-/*------Link Mods---------*/
+/*---------------------------Link Mods---------*/
 
 a:link{
 	color: #bcbcbc;
@@ -20,10 +20,16 @@ a:visited{
 
 a:hover{
 	color: #6495ED;
-/*------cornflower blue---------*/
+/*-cornflower blue-*/
 }
 
 a:active{
 	color: #696969;
-/*------dim gray---------*/
+/*--dim gray------*/
+}
+
+/*---------------------------Ul MoDS---------*/
+
+ul{
+	list-style-type: circle;
 }
