@@ -1,11 +1,12 @@
-/*---------------------------Font Mods---------*/
-p{
-	font-family: ‘Fenix’, Arial, serif; font-weight: 400;
+body{
+	font-family: ‘Fenix’, Arial, serif;
+	font-size: 14px;
+	line-height: 1.5;
+	width: 800px;
+	margin: 0 auto;
+
 }
 
-h1{
-	font-family: ‘Montaga’, Arial, serif; font-weight: 400;
-}
 /*---------------------------Link Mods---------*/
 
 a:link{
