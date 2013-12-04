@@ -1,9 +1,29 @@
+/*------Font Mods---------*/
 p{
-	color: red;
 	font-family: ‘Fenix’, Arial, serif; font-weight: 400;
 }
 
 h1{
-	color: purple;
 	font-family: ‘Montaga’, Arial, serif; font-weight: 400;
+}
+/*------Link Mods---------*/
+
+a:link{
+	color: #bcbcbc;
+/*------silver---------*/
+}
+
+a:visited{
+	color: #0d7cff;
+/*------blue---------*/
+}
+
+a:hover{
+	color: #6495ED;
+/*------cornflower blue---------*/
+}
+
+a:active{
+	color: #696969;
+/*------dim gray---------*/
 }
