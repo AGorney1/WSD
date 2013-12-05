@@ -88,14 +88,14 @@ section ul{
 	border: 1px dashed #fff;
 	list-style-type: none;
 	width: 800px;
-	margin: 20px auto;
+	margin: 5px auto;
 	overflow: hidden;
 	padding: 5px;
 }
 
 section li{
 	float: left;
-	margin-left: 19px;
+	margin-left: 10px;
 }
 
 section a{
