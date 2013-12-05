@@ -68,19 +68,3 @@ nav a:hover{
 	color: yellow;
 	background: purple;
 }
-
-/*----------------------Gallery Mods---------*/
-
-.gallery{
-	border: 1px dashed #fff;
-	list-style-type: none;
-	width: 527px;
-	margin: 20px autol
-	overflow: hidden;
-	padding: 5px;
-}
-
-.gallery{
-	float: left;
-	margin-left: 19px;
-}
