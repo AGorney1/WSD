@@ -136,5 +136,6 @@ section a:hover{
 /*---------------------------Link Mods---------*/
 
 #now{
-	background: #0d7cff;
+	background: #0d7cff
+	font-size: 10px;
 }
