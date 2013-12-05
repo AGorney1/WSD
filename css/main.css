@@ -7,7 +7,7 @@ body{
 	background-image: url('../images/background.png')
 }
 article{
-	background-image: url('../images/cta_bg.png')
+	background: #DBDBDB;
 
 }
 .clearFix{
