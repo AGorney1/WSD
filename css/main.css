@@ -142,7 +142,7 @@ section a:hover{
 	border-bottom-right-radius:20px;
 	border-bottom-left-radius:20px;
 	text-indent:0;
-	border:1px solid #d83526;
+	border:1px solid #696969;
 	display:inline-block;
 	color:#ffffff;
 	font-size:15px;
@@ -152,5 +152,5 @@ section a:hover{
 	width:100px;
 	text-decoration:none;
 	text-align:center;
-	text-shadow:1px 1px 0px #b23e35;
+	text-shadow:1px 1px 0px #6495ED;
 }
