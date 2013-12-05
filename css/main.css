@@ -75,3 +75,9 @@ div{
 	-moz-column-count: 3;
 	-moz-column-gap: auto;
 }
+
+/*---------------------------H1 Shadow Mod---------*/
+
+h1{
+	text-shadow: 2px 2px 2px #bcbcbc;
+}
