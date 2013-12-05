@@ -29,13 +29,13 @@ a:active{
 /*--dim gray------*/
 }
 
-/*---------------------------Ul MoDS---------*/
+/*---------------------------Ul ModS---------*/
 
 li{
 	list-style-type: circle;
 }
 
-/*---------------------------Nav MoDS---------*/
+/*---------------------------Nav ModS---------*/
 
 nav ul{
 	width: 800px;
@@ -67,4 +67,14 @@ nav a{
 nav a:hover{
 	color: yellow;
 	background: purple;
+}
+
+/*----------------------Gallery ModS---------*/
+
+.gallery ul{
+	border: 10px solid #fff;
+	display: block;
+	height: 100px;
+	width: 130px;
+	outline: 0;
 }
