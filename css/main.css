@@ -96,6 +96,8 @@ section ul{
 section li{
 	float: left;
 	margin-left: 10px;
+	list-style-type: none;
+
 }
 
 section a{
