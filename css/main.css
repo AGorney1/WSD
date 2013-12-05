@@ -125,4 +125,5 @@ section a:hover{
 #main{
 	width: 350px;
 	margin: 20px;
+	float: left;
 }
