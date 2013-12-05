@@ -68,3 +68,10 @@ nav a:hover{
 	color: yellow;
 	background: purple;
 }
+
+/*---------------------------Nav Mods---------*/
+
+div{
+	-moz-column-count: 3;
+	-moz-column-gap: auto;
+}
