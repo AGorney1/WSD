@@ -6,7 +6,9 @@ body{
 	margin: 10px auto;
 	background-image: url('../images/background.png')
 }
-
+div{
+	background-image: url('../images/cta_bg.png')
+}
 /*---------------------------Link Mods---------*/
 
 nav a:link{
