@@ -77,4 +77,5 @@ nav a:hover{
 	height: 100px;
 	width: 130px;
 	outline: 0;
+	float: left;
 }
