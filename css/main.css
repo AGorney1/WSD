@@ -71,7 +71,7 @@ nav a:hover{
 
 /*----------------------Gallery Mods---------*/
 
-ul{
+.gallery ul{
 	border: 1px dashed #fff;
 	list-style-type: none;
 	width: 527px;
@@ -80,7 +80,7 @@ ul{
 	padding: 5px;
 }
 
-li{
+.gallery li{
 	float: left;
 	margin-left: 19px;
 }
