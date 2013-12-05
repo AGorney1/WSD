@@ -8,8 +8,10 @@ body{
 }
 article{
 	background-image: url('../images/cta_bg.png')
-	clear: both;
 
+}
+.clearFix{
+	clear: both;
 }
 /*---------------------------Link Mods---------*/
 
