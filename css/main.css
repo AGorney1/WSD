@@ -47,7 +47,7 @@ nav ul{
 
 nav li{
 	width: 200px;
-	background-image: url('../images/background.png')
+	background: silver;
 	float: left;
 	list-style-type: none;
 	
