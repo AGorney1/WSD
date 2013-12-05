@@ -98,3 +98,10 @@ section li{
 	margin-left: 19px;
 }
 
+section a{
+	border: 10px solid #fff;
+	display: block;
+	height: 101px;
+	width: 130px;
+	outline: 0;
+}
