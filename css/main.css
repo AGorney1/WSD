@@ -7,7 +7,7 @@ body{
 	background-image: url('../images/background.png')
 }
 article{
-	background: #F0EBEB;
+	background: #DBDBDB;
 
 }
 .clearFix{
@@ -131,4 +131,10 @@ section a:hover{
 #main{
 	width: 350px;
 	margin: 20px;
+}
+
+/*---------------------------Link Mods---------*/
+
+#now{
+	background: red;
 }
