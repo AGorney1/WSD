@@ -137,6 +137,10 @@ section a:hover{
 #now{
 	box-shadow:inset 0px 1px 0px 0px #f29c93;
 	background-color:#fe1a00;
+	border-top-left-radius:20px;
+	border-top-right-radius:20px;
+	border-bottom-right-radius:20px;
+	border-bottom-left-radius:20px;
 	text-indent:0;
 	border:1px solid #d83526;
 	display:inline-block;
