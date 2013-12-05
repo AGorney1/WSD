@@ -75,10 +75,11 @@ div{
 	-moz-column-gap: auto;
 }
 
-/*---------------------------H1 Shadow Mod---------*/
+/*---------------------------H1 Mod---------*/
 
 h1{
 	text-shadow: 3px 3px 3px #bcbcbc;
+	float: left;
 }
 
 /*---------------------------Gallery Mod---------*/
