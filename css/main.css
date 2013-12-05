@@ -55,7 +55,7 @@ nav li{
 
 nav a{
 	text-decoration: none;
-	background-image: url('../images/background.png')	
+	background: #fff;
 	display: block;
 	height: 30px;
 	line-height: 30px;
