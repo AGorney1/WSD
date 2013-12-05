@@ -111,3 +111,9 @@ section a{
 section a:hover{
 	border-color: #bcbcbc;
 }
+
+/*---------------------------logo Mods---------*/
+
+#logo{
+	height: 100px;
+}
