@@ -9,22 +9,22 @@ body{
 
 /*---------------------------Link Mods---------*/
 
-a:link{
+nav a:link{
 	color: #bcbcbc;
 /*------silver---------*/
 }
 
-a:visited{
+nav a:visited{
 	color: #0d7cff;
 /*------blue---------*/
 }
 
-a:hover{
+nav a:hover{
 	color: #6495ED;
 /*-cornflower blue-*/
 }
 
-a:active{
+nav a:active{
 	color: #696969;
 /*--dim gray------*/
 }
