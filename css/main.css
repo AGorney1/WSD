@@ -29,13 +29,13 @@ a:active{
 /*--dim gray------*/
 }
 
-/*---------------------------Ul ModS---------*/
+/*---------------------------Ul Mods---------*/
 
 li{
 	list-style-type: circle;
 }
 
-/*---------------------------Nav ModS---------*/
+/*---------------------------Nav Mods---------*/
 
 nav ul{
 	width: 800px;
@@ -69,14 +69,18 @@ nav a:hover{
 	background: purple;
 }
 
-/*----------------------Gallery ModS---------*/
+/*----------------------Gallery Mods---------*/
 
 #gallery{
-	border: 10px solid #fff;
-	display: block;
-	height: 100px;
-	width: 130px;
-	outline: 0;
+	border: 1px dashed #fff;
+	list-style-type: none;
+	width: 527px;
+	margin: 20px autol
+	overflow: hidden;
+	padding: 5px;
+}
+
+.gallery{
 	float: left;
-	margin-left: 20px;
+	margin-left: 19px;
 }
