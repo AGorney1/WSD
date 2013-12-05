@@ -2,7 +2,7 @@ body{
 	font-family: ‘Fenix’, Arial, serif;
 	font-size: 14px;
 	line-height: 1.5;
-	width: 800px;
+	width: 1000px;
 	margin: 0 auto;
 	background-image: url('../images/background.png')
 }
@@ -87,7 +87,7 @@ h1{
 section ul{
 	border: 1px dashed #fff;
 	list-style-type: none;
-	width: 200px;
+	width: 1000px;
 	margin: 20px auto;
 	overflow: hidden;
 	padding: 5px;
@@ -102,6 +102,6 @@ section a{
 	border: 10px solid #fff;
 	display: block;
 	height: 200px;
-	width: 200px;
+	width: 200	px;
 	outline: 0;
 }
