@@ -43,7 +43,7 @@ nav ul{
 	list-style-type: none;
 	padding: 0;
 	overflow: hidden;
-	float: right;
+	float: left;
 	
 }
 
@@ -81,7 +81,7 @@ div{
 
 h1{
 	text-shadow: 3px 3px 3px #bcbcbc;
-	float: right;
+	float: left;
 }
 
 /*---------------------------Gallery Mod---------*/
@@ -118,4 +118,5 @@ section a:hover{
 
 #logo{
 	width: 100px;
+	float: left;
 }
