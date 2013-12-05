@@ -99,9 +99,9 @@ section li{
 }
 
 section a{
-	border: 10px solid #fff;
+	border: 10px solid #0d7cff;
 	display: block;
-	height: 200px;
-	width: 200	px;
+	height: 101px;
+	width: 130px;
 	outline: 0;
 }
