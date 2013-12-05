@@ -3,7 +3,7 @@ body{
 	font-size: 14px;
 	line-height: 1.5;
 	width: 800px;
-	margin: 0 auto;
+	margin: 10px auto;
 	background-image: url('../images/background.png')
 }
 
@@ -119,4 +119,5 @@ section a:hover{
 #logo{
 	width: 75px;
 	float: left;
+	
 }
