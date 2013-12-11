@@ -10,7 +10,8 @@ article{
 }
 
 p, h2{
-	padding: 1.25%, 0, 1.25%, 0;
+	padding-left: 1.25%;
+	padding-right: 1.25%;
 }
 
 .clearFix{
