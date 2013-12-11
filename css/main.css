@@ -170,14 +170,16 @@ section a:hover{
 /*---------------------------------Media Queries---------------------------------------------*/
 
 	/*Table Portrait size to standard 800 (device and browsers*/
-	@media screen and (min-width: 478px) and (max-width: 799px){
+	@media screen and (min-width: 472px) and (max-width: 799px){
 		article{background: red;}
 
 	}
 	
 	/*Mobile Landscape size to Table Portrait size (device and browsers*/
-	@media only screen and (min-width: 310px) and (max-width: 477px){
+	@media only screen and (min-width: 310px) and (max-width: 472px){
 		article{background: yellow;}
+		
+		#main{max-width: 95%} /*Main image*/
 		
 		#logo{width: 15%;} /*logo enlargement*/
 		
