@@ -49,7 +49,7 @@ li{
 
 nav ul{
 	width: 54.75%/*430px*/
-	margin: 3.4883721% /*15px auto*/
+	margin: 3.4883721% auto;/*15px auto*/
 	list-style-type: none;
 	padding: 0px 5px;
 	overflow: hidden;
