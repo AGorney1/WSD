@@ -79,9 +79,12 @@ div{
 
 	-moz-column-count: 3; /* Firefox */
 	-moz-column-gap: auto;
+	-moz-column-fill: auto;
 	-webkit-column-count: 3; /* Safari and Chrome */
 	-webkit-column-gap: auto;
+	-webkit-column-fill: auto;
 	column-count: 3;
+	column-fill: auto;
 	margin: 20px;
 } 
 /*---------------------------H1 Mod---------*/
