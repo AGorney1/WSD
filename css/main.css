@@ -9,6 +9,10 @@ article{
 	background: #DBDBDB;
 }
 
+p, h2{
+	padding-left: 1.25%;
+}
+
 .clearFix{
 	clear: both;
 }
