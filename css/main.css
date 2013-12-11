@@ -1,7 +1,7 @@
 body{
-	font: 87.5%/1.5 "Fenix", Arial, serif;
+	font: 100%/1.5 "Fenix", Arial, serif;
 	width: 800px;
-	margin: 10px auto;
+	margin: .0125% auto;
 	background-image: url("../images/background.png")
 }
 article{
@@ -10,6 +10,7 @@ article{
 
 p, h2{
 	margin: 10px;
+	font-size: .875em;
 }
 
 .clearFix{
