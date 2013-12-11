@@ -9,10 +9,6 @@ article{
 	background: #DBDBDB;
 }
 
-p, h2,{
-	margin: 1.25%;
-}
-
 .clearFix{
 	clear: both;
 }
