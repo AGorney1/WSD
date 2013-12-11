@@ -1,18 +1,16 @@
 body{
-	font-family: "Fenix", Arial, serif;
-	font-size: .875em;
-	line-height: 1.5;
+	font: 100%/1.5 "Fenix", Arial, serif;
 	width: 800px;
 	margin: 10px auto;
 	background-image: url("../images/background.png")
 }
 article{
 	background: #DBDBDB;
-
 }
 
 p{
 	margin: 10px;
+	font-size: .875em;	
 }
 
 h2{
