@@ -171,23 +171,20 @@ section a:hover{
 
 /*---------------------------------Media Queries---------------------------------------------*/
 
-	/*Table Portrait size to standard 799 (device and browsers*/
-	@media screen and (min-width: 700px) and (max-width: 799px) {
-		article{
-			background: red;}
+	/*Table Portrait size to standard 800 (device and browsers*/
+	@media screen and (min-width: 501px) and (max-width: 799px){
+		article{background: red;}
 
 	}
 	
 	/*Mobile Landscape size to Table Portrait size (device and browsers*/
-	@media only screen and (min-width: 500px) and (max-width: 699px) {
-		article{
-			background: yellow;}
+	@media only screen and (min-width: 301px) and (max-width: 500px){
+		article{background: yellow;}
 
 	}	
 	
 	/*Mobile Portrait size to Mobile Landscape size (device and browsers*/
-	@media only screen and(max-width: 499px) {
-		article{
-			background: red;}
+	@media only screen and (max-width: 300px){
+		article{background: orange;}
 
 	}	
