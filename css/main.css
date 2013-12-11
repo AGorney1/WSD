@@ -106,7 +106,7 @@ h1{
 section ul{
 	border: 1px dashed #fff;
 	list-style-type: none;
-	width: 100%/*800px*/
+	width: 100%; /*800px*/
 	margin: 5px auto;
 	overflow: hidden;
 	padding: 5px;
