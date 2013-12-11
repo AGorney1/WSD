@@ -1,19 +1,22 @@
 body{
-	font: 100%/1.5 "Fenix", Arial, serif;
-	max-width: 800px;
-	margin: 1.25% auto;
+	font-family: "Fenix", Arial, serif;
+	font-size: 14px;
+	line-height: 1.5;
+	width: 800px;
+	margin: 10px auto;
 	background-image: url("../images/background.png")
 }
-
 article{
 	background: #DBDBDB;
+
 }
-h1{
-	font-size: 87.5%;
+
+p{
+	margin: 10px;
 }
-p, h2{
-	padding-left: 1.25%;
-	padding-right: 1.25%;
+
+h2{
+	margin: 5px;
 }
 
 .clearFix{
@@ -163,6 +166,6 @@ section a:hover{
 	text-decoration:none;
 	text-align:center;
 	text-shadow:1px 1px 0px #6495ED;
-	margin: 1.25%;
+	margin: 10px;
 }
 
