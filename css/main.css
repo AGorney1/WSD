@@ -185,9 +185,15 @@ section a:hover{
 	@media only screen and (max-width: 300px){
 		article{background: orange;}
 		div{
-			-moz-column-count: none; /* Firefox */
-			-webkit-column-count: none; /* Safari and Chrome */			-webkit-column-gap: auto;
-			column-count: none;
+			-moz-column-count: 1; /* Firefox */
+			-webkit-column-count: 1; /* Safari and Chrome */			-webkit-column-gap: auto;
+			column-count: 1;
+			}
+			
+		nav ul{width: 100%;} /* Nav Fix */
+		nav li{width: 25%;} /* Nav Fix */
 		
-		}
+		h2{text-align: center;}
+		
+		
 	}	
