@@ -136,20 +136,6 @@ section a:hover{
 	margin: 20px;
 }
 
-/*---------------------------CTA Mods---------*/
-
-#main{
-	float: left;
-}
-
-#para{
-	float: left;
-}
-
-#now{
-	float: left;
-}
-
 /*---------------------------Link Mods---------*/
 #now{
 	box-shadow:inset 0px 1px 0px 0px #bcbcbc;
