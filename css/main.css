@@ -114,7 +114,7 @@ section ul{
 
 section li{
 	float: left;
-	margin-left: 10px;
+	margin-left: 1.25%; /*10px*/
 	list-style-type: none;
 
 }
