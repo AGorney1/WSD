@@ -1,5 +1,5 @@
 body{
-	font: 100%/1.5 "Fenix", Arial, serif;
+	font: .875em/1.5 "Fenix", Arial, serif;
 	max-width: 800px;
 	margin: 10px auto;
 	background-image: url("../images/background.png")
@@ -11,7 +11,6 @@ article{
 
 p, h2,{
 	margin: 10px;
-	font-size: .875em;
 }
 
 .clearFix{
@@ -153,6 +152,7 @@ section a:hover{
 	border:1px solid #696969;
 	display:inline-block;
 	color:#ffffff;
+	font-size:15px;
 	font-weight:bold;
 	height:50px;
 	line-height:50px;
