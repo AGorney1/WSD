@@ -107,9 +107,9 @@ section ul{
 	border: 1px dashed #fff;
 	list-style-type: none;
 	width: 100%; /*800px*/
-	margin: .625% auto;/*5px auto*/
+	margin: .625% auto; /*5px auto*/
 	overflow: hidden;
-	padding: 5px;
+	padding: .625%; /*5px*/
 }
 
 section li{
