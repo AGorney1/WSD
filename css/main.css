@@ -82,6 +82,7 @@ div{
 	-webkit-column-count: 3; /* Safari and Chrome */
 	-webkit-column-gap: auto;
 	column-count: 3;
+	margin: 20px;
 } 
 /*---------------------------H1 Mod---------*/
 
