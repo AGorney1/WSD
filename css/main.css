@@ -137,7 +137,7 @@ section a:hover{
 	
 }
 
-/*---------------------------logo Mods---------*/
+/*---------------------------Main Picture Mods---------*/
 
 #main{
 	max-width: 43.75%; /*350px*/
@@ -176,14 +176,15 @@ section a:hover{
 	}
 	
 	/*Mobile Landscape size to Table Portrait size (device and browsers*/
-	@media only screen and (min-width: 301px) and (max-width: 500px){
+	@media only screen and (min-width: 499px) and (max-width: 500px){
 		article{background: yellow;}
-
+		
+		nav ul{width: 100%;} /* Nav Fix */
+		nav li{width: 25%;} /* Nav Fix */
 	}	
 	
 	/*Mobile Portrait size to Mobile Landscape size (device and browsers*/
-	@media only screen and (max-width: 300px){
-		article{background: orange;}
+	@media only screen and (max-width: 314px){
 		div{
 			-moz-column-count: 1; /* Firefox */
 			-webkit-column-count: 1; /* Safari and Chrome */			-webkit-column-gap: auto;
@@ -194,6 +195,14 @@ section a:hover{
 		nav li{width: 25%;} /* Nav Fix */
 		
 		h2{text-align: center;}
+		
+		#now{
+			display: block;
+			margin-left: auto;
+  			margin-right: auto;
+  			}
+  			
+  		#main{display: none;}
 		
 		
 	}	
