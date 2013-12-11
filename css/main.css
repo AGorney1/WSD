@@ -56,7 +56,7 @@ nav ul{
 	width: 53.75%; /*430px*/
 	margin: 1.875% auto; /*15px auto*/
 	list-style-type: none;
-	padding: 0px 5px;
+	padding: 0 1.1627907% /*0px 5px*/
 	overflow: hidden;
 	float: left;
 	
