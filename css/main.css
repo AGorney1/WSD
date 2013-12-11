@@ -76,10 +76,13 @@ nav a:hover{
 /*---------------------------Column Mods---------*/
 
 div{
-	-moz-column-count: 3;
-	-moz-column-gap: auto;
-}
 
+	-moz-column-count: 3; /* Firefox */
+	-moz-column-gap: auto;
+	-webkit-column-count: 3; /* Safari and Chrome */
+	-webkit-column-gap: auto;
+	column-count: 3;
+} 
 /*---------------------------H1 Mod---------*/
 
 h1{
