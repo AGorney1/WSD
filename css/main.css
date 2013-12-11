@@ -2,7 +2,7 @@ body{
 	font-family: "Fenix", Arial, serif;
 	font-size: 14px;
 	line-height: 1.5;
-	width: 800px;
+	max-width: 800px;
 	margin: 10px auto;
 	background-image: url("../images/background.png")
 }
