@@ -12,11 +12,11 @@ article{
 }
 
 p{
-	margin: 1.25%;
+	margin: 1.25%;/*10px*/
 }
 
 h2{
-	margin: 5px;
+	margin: .625%/*5px*/
 }
 
 .clearFix{
