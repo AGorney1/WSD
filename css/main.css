@@ -9,7 +9,7 @@ article{
 	background: #DBDBDB;
 }
 
-p, h2{
+p, h2,{
 	margin: 10px;
 	font-size: .875em;
 }
@@ -153,7 +153,6 @@ section a:hover{
 	border:1px solid #696969;
 	display:inline-block;
 	color:#ffffff;
-	font-size:15px;
 	font-weight:bold;
 	height:50px;
 	line-height:50px;
