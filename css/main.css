@@ -8,7 +8,6 @@ body{
 }
 article{
 	background: #DBDBDB;
-
 }
 
 p{
@@ -85,7 +84,6 @@ nav a:hover{
 /*---------------------------Column Mods---------*/
 
 div{
-
 	-moz-column-count: 3; /* Firefox */
 	-moz-column-gap: auto;
 	-webkit-column-count: 3; /* Safari and Chrome */
@@ -186,5 +184,10 @@ section a:hover{
 	/*Mobile Portrait size to Mobile Landscape size (device and browsers*/
 	@media only screen and (max-width: 300px){
 		article{background: orange;}
-
+		div{
+			-moz-column-count: none; /* Firefox */
+			-webkit-column-count: none; /* Safari and Chrome */			-webkit-column-gap: auto;
+			column-count: none;
+		
+		}
 	}	
