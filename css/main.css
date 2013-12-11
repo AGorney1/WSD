@@ -106,7 +106,7 @@ h1{
 section ul{
 	border: 1px dashed #fff;
 	list-style-type: none;
-	width: 100%; /*800px*/
+	width: 	100%; /*800px*/
 	margin: .625% auto; /*5px auto*/
 	overflow: hidden;
 	padding: .625%; /*5px*/
@@ -134,7 +134,7 @@ section a:hover{
 /*---------------------------logo Mods---------*/
 
 #logo{
-	width: 75px;
+	width: 9.375%; /*75px*/
 	float: left;
 	
 }
