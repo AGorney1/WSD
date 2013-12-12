@@ -23,24 +23,20 @@ h2{
 }
 /*---------------------------Link Mods---------*/
 
-nav a:link{
+nav a:link{ /*------silver---------*/
 	color: #bcbcbc;
-/*------silver---------*/
 }
 
-nav a:visited{
+nav a:visited{ /*------blue---------*/
 	color: #0d7cff;
-/*------blue---------*/
 }
 
-nav a:hover{
+nav a:hover{ /*-cornflower blue-*/
 	color: #6495ED;
-/*-cornflower blue-*/
 }
 
-nav a:active{
+nav a:active{ /*--dim gray------*/
 	color: #696969;
-/*--dim gray------*/
 }
 
 /*---------------------------Ul Mods---------*/
@@ -57,15 +53,13 @@ nav ul{
 	list-style-type: none;
 	padding: 0 1.1627907%; /*0px 5px*/
 	overflow: hidden;
-	float: left;
-	
+	float: left;	
 }
 
 nav li{
 	width: 24.883721%;/*107px*/
 	float: left;
-	list-style-type: none;
-	
+	list-style-type: none;	
 }
 
 nav a{
@@ -91,6 +85,7 @@ div{
 	column-count: 3;
 	margin: 2.50%; /*20px*/
 } 
+
 /*---------------------------H1 Mod---------*/
 
 h1{
@@ -114,7 +109,6 @@ section li{
 	float: left;
 	margin-left: 1.25%; /*10px*/
 	list-style-type: none;
-
 }
 
 section a{
@@ -133,8 +127,7 @@ section a:hover{
 
 #logo{
 	width: 9.375%; /*75px*/
-	float: left;
-	
+	float: left;	
 }
 
 /*---------------------------Main Picture Mods---------*/
@@ -172,12 +165,25 @@ section a:hover{
 	/*Table Portrait size to standard 800 (device and browsers*/
 	@media screen and (min-width: 472px) and (max-width: 799px){
 		article{background: red;}
-
+		
+		#main{max-width: 95%} /*Main image*/
+		
+		#logo{width: 15%;} /*logo enlargement*/
+		
+		h1{float: none;
+		   text-align: center;
+			}
+		
+		h2{text-align: center;}
+		
+		nav ul{width: 100%;} /* Nav Fix */
+		
+		nav li{width: 25%;} /* Nav Fix */
+	}	
 	}
 	
 	/*Mobile Landscape size to Table Portrait size (device and browsers*/
 	@media only screen and (min-width: 310px) and (max-width: 472px){
-		article{background: yellow;}
 		
 		#main{max-width: 95%} /*Main image*/
 		
@@ -213,7 +219,5 @@ section a:hover{
   			margin-right: auto;
   			}
   			
-  		#main{display: none;}
-		
-		
+  		#main{display: none;}	
 	}	
