@@ -179,13 +179,12 @@ section a:hover{
 		nav ul{width: 100%;} /* Nav Fix */
 		
 		nav li{width: 25%;} /* Nav Fix */
-	}	
 	}
 	
 	/*Mobile Landscape size to Table Portrait size (device and browsers*/
 	@media only screen and (min-width: 310px) and (max-width: 472px){
 		
-		#main{max-width: 95%} /*Main image*/
+		#main{max-width: 95%;} /*Main image*/
 		
 		#logo{width: 15%;} /*logo enlargement*/
 		
